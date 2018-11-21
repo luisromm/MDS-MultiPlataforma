@@ -1,4 +1,4 @@
 # MDS-MultiPlataform
 Demo Colaborativo
-.IP:
-.www.collabedit.com/
+\nIP:
+\nwww.collabedit.com/
