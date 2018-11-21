@@ -22,4 +22,8 @@ public class ManagerBD
     {
         strCadenaConexion = ConfigurationManager.ConnectionStrings[strNombreConexion].ConnectionString;
     }
+
+    public void Test() {
+
+    }
 }
