@@ -3,8 +3,9 @@
     "",
     "\\Denuncias",
     "\\Denuncias\\Core",
-    "\\Denuncias\\Core\\Model"
+    "\\Denuncias\\Core\\Controller",
+    "\\Denuncias\\Core\\Model",
+    "\\Denuncias\\Windows"
   ],
-  "SelectedNode": "\\Denuncias\\Core\\Model\\ManagerBD.cs",
   "PreviewInSolutionExplorer": false
 }
