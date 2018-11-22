@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Denuncias",
-    "\\Denuncias\\Core"
+    "\\Denuncias\\Core",
+    "\\Denuncias\\Core\\Model"
   ],
-  "SelectedNode": "\\Denuncias\\Core",
+  "SelectedNode": "\\Denuncias\\Core\\Model\\ManagerBD.cs",
   "PreviewInSolutionExplorer": false
 }
