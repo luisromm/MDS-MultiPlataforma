@@ -10,6 +10,7 @@ namespace Core.Controller
     {
         //fields
         private string connectionDB;
+        private int nosirve = 0;
 
         //methods
         public ControllerBD()
