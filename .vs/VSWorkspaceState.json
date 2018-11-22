@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Denuncias",
-    "\\Denuncias\\Core",
-    "\\Denuncias\\Core\\Controller",
-    "\\Denuncias\\Core\\Model",
-    "\\Denuncias\\Windows"
+    "\\Denuncias\\Core"
   ],
+  "SelectedNode": "\\Denuncias\\Core\\Properties",
   "PreviewInSolutionExplorer": false
 }
