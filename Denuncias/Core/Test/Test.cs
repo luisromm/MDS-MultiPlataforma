@@ -11,5 +11,6 @@ namespace Core.Test
         ///otra vez actualizar
         ///otro coment y el .gitignore
         ///el final
+        ///el otro final final .suo
     }
 }
