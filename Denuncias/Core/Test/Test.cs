@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Views
+namespace Core.Test
 {
-    public interface IUsuario
+    public class Test
     {
-        ///las chacharas
-        ///de mi compadre!
     }
 }
