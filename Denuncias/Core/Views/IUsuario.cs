@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Core.Views
 {
-    interface IUsuario
+    public interface IUsuario
     {
+        ///las chacharas
+        ///de mi compadre!
     }
 }
