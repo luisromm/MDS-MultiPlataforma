@@ -5,7 +5,9 @@
     "\\Denuncias\\Core",
     "\\Denuncias\\Core\\Controller",
     "\\Denuncias\\Core\\Model",
+    "\\Denuncias\\Core\\Views",
     "\\Denuncias\\Windows"
   ],
+  "SelectedNode": "\\Denuncias\\Core\\Views\\IUsuario.cs",
   "PreviewInSolutionExplorer": false
 }
